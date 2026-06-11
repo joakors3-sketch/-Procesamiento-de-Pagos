@@ -1,6 +1,5 @@
 using System;
 
-
 public class PagoCheque : Pago
 {
     public PagoCheque(string titular, double monto)
