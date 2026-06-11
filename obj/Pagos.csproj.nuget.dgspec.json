@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joako\\Desktop\\Pagos\\Pagos\\Pagos.csproj": {}
+    "C:\\Users\\gaita\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\F75F5E58977B0EE52BF0A8E3E43D054B536F0E1C\\transfers\\2026-24\\Pagos\\Pagos\\Pagos\\Pagos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joako\\Desktop\\Pagos\\Pagos\\Pagos.csproj": {
+    "C:\\Users\\gaita\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\F75F5E58977B0EE52BF0A8E3E43D054B536F0E1C\\transfers\\2026-24\\Pagos\\Pagos\\Pagos\\Pagos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joako\\Desktop\\Pagos\\Pagos\\Pagos.csproj",
+        "projectUniqueName": "C:\\Users\\gaita\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\F75F5E58977B0EE52BF0A8E3E43D054B536F0E1C\\transfers\\2026-24\\Pagos\\Pagos\\Pagos\\Pagos.csproj",
         "projectName": "Pagos",
-        "projectPath": "C:\\Users\\Joako\\Desktop\\Pagos\\Pagos\\Pagos.csproj",
-        "packagesPath": "C:\\Users\\Joako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joako\\Desktop\\Pagos\\Pagos\\obj\\",
+        "projectPath": "C:\\Users\\gaita\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\F75F5E58977B0EE52BF0A8E3E43D054B536F0E1C\\transfers\\2026-24\\Pagos\\Pagos\\Pagos\\Pagos.csproj",
+        "packagesPath": "C:\\Users\\gaita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaita\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\F75F5E58977B0EE52BF0A8E3E43D054B536F0E1C\\transfers\\2026-24\\Pagos\\Pagos\\Pagos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joako\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
