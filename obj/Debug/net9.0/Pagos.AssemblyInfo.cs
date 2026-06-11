@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pagos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e620bf6318eb82c4d10835000885a96e96be5459")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18835d1b13fe27489e1a8b0fef5f94cb6a5b3fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pagos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pagos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
